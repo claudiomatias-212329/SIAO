@@ -13,11 +13,11 @@ COMO RODAR ESSE SISTEMA.
 
 1 - Certifique que você tem a versão do Microsoft Access versão 2007 ou superior.
 2 - Crie uma pasta denominada "SIAO" no diretório raiz (C:) de sua maquina.
-3 - Acesse o repositório e Baixe o arquivo SIAO.MDB no diretorio C:\SIAO
+3 - Acesse o repositório e Baixe o arquivo SIAO.MDB no diretorio C:\SIAO.
 3 - Acesse o diretorio C:\SIAO.
 4 - Acione um clique duplo no botão esquerdo no mouse para abrir a aplicação.
 5 - No formulário de login, utilize quaisquer um dos usuário abaixo:
-    - Usuário: ADM - Senha: 123
-    - Usuário: SIS - Senha: 123
+    - Usuário: ADM - Senha: 123;
+    - Usuário: SIS - Senha: 123;
 
 Observações: Caso deseje ver a estrutura da aplicação, mantenha a tecla shift pressiona no momento de abrir o arquivo. ATENÇÃO! Quaisquer alteração no código pode afetar o funcinamento da aplicação. 
